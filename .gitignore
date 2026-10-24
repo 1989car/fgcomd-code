@@ -1,0 +1,12 @@
+# 编译产物
+*.o
+
+# 可执行文件
+/fgcomd
+/lighthouse
+/listener
+/stress
+
+# 文档生成产物
+source-code.ps
+source-code.pdf
